@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1524508548 source:d:\mine\faculty\assembly\assembler\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+	<cstring>
+	<numeric>
+
+1525018465 source:e:\mine\faculty\assembly\assembler\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<iterator>
+	<cstring>
+	<numeric>
+	<cmath>
+	<iomanip>
+
